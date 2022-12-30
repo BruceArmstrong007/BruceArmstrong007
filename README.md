@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bruce Armstrong.
-- 👀 I’m a Full stack engineer.
+- 📫 I’m a Full stack engineer.
 - 📫 brucearmstrongofficial@gmail.com
 
 <!---
