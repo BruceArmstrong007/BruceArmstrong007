@@ -4,6 +4,7 @@
 - brucearmstrongofficial@gmail.com
 - Loves to code, music, games, food, exploring new tech (rnd) and some good content
 - My Github is full of experimental stuff for (learning purposes)
+- Aiming to be a jack of all trades
 <!---
 BruceArmstrong007/BruceArmstrong007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
